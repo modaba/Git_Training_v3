@@ -1,1 +1,3 @@
+this is reset2
 this is file2
+This is comparison lecture, change in file2
