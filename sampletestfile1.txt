@@ -1,3 +1,4 @@
 this is the first update 
 :`
 This is comparison lecture
+This is the stash lecture, change in file 1
